@@ -1,2 +1,2 @@
-# skilharvest-project
-### This is where i will be uploading my project and my learnings with skilharvest 
+# PROJECT OVERVIEW
+   This project was carried out to analyse the data of an ICT company to check for the sales per region, the unit of sold items  per region 
