@@ -18,10 +18,13 @@
  
  ### Recommendation
  
-    -More funds should be invested in service plan because more sales leading to generation of higher revenue are gotten from service plan.
+   - More funds should be invested in service plan because more sales leading to generation of higher revenue are gotten from service plan.
+   
+   - More advertisement and sales strategies to increase sales should be employed in the North central and the choice of location of the store within this area, should be strategically considered.
 
-   -More advertisement and sales strategies to increase sales should be employed in the North central and the choice of location of the store within this area, should be strategically considered.
-
+   - Sales persons/staff can also observe public holidays since no insignificant revenue was generated on public holidays.
+     
+   
 
        Sales persons/staff can also o
     
