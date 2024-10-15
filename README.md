@@ -12,6 +12,10 @@
    - The line of business with the highest revenue is service plan while that of the lowest revenue is Printer sales. Other line of business like copier sale, sales of parts including printer sale has a very low revenue compare to service plan.
      
    - Stores with high revenue are located in the North east, followed by south west. They include, Ankpa, Ajaokuta, ARrochukwu, Ekiti south, and Nembe.
+
+   - More revenue are generated during work days than on holidays. Reasons could be because most organizations that make use of this services are closed during holidays.
+
+   - More sales were made during the first half of the year than the second half of the year. 
      
    
 
