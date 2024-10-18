@@ -9,7 +9,7 @@
  
  ### Insight and Analysis
  
-   - According to the data table for the unit sold pf product per region, North east has the highest sales, followed by south west while north central has the lowest sales. The stores with the lowest sales are Boki, Kwali, Chibok and Isala Ngwa south.
+   - According to the data table for the unit sold of product per region, North east has the highest sales, followed by south west while north central has the lowest sales. The stores with the lowest sales are Boki, Kwali, Chibok and Isala Ngwa south.
      
    - The line of business with the highest revenue is service plan while that of the lowest revenue is Printer sales. Other line of business like copier sale, sales of parts including printer sale has a very low revenue compare to service plan.
      
