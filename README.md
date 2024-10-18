@@ -12,8 +12,16 @@
    -  Google sheet
    -   Microsoft Power BI
 
+### Exploratory Data Analysis
+
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+
+   - which product are the best sellers?
+   -  what regions or customer segments performs better?
+   -  how can sales trends overtime help in forcasting?
+
  
- ### Insight and Analysis
+ ### Data Insight and Analysis
  
    - According to the data table for the unit sold of product per region, North east has the highest sales, followed by south west while north central has the lowest sales. The stores with the lowest sales are Boki, Kwali, Chibok and Isala Ngwa south.
      
