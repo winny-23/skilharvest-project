@@ -6,6 +6,11 @@
 
  The primary source of Data used here is gotten from Excel which is an open source data.
 
+ ### Tool used
+    - Ms Excel [Download here](http://www.microsoft.com)
+    - Google sheet
+    - Microsoft Power BI
+
  
  ### Insight and Analysis
  
