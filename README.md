@@ -20,6 +20,15 @@ EDA involved the exploring of the Data to answer some questions about the Data s
    -  what regions or customer segments performs better?
    -  how can sales trends overtime help in forcasting?
 
+### Data Analysis
+
+This is where we include some basic lines of code or quaries or even some of the DAX expressions used during analysis.
+
+``` SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+```
+
  
  ### Data Insight and Analysis
  
