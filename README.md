@@ -28,6 +28,8 @@ This is where we include some basic lines of code or quaries or even some of the
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ```
+![WhatsApp Image 2024-10-19 at 00 23 31_11ba9667](https://github.com/user-attachments/assets/b1756106-c0f8-497c-bb65-f0359409fc50)
+![WhatsApp Image 2024-10-19 at 00 23 32_de54eaff](https://github.com/user-attachments/assets/bde2ffc5-4e8d-4e8f-93fc-c5de0db7ed28)
 
  
  ### Data Insight and Analysis
